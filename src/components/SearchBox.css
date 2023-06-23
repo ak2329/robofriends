@@ -1,0 +1,7 @@
+.search:focus {
+  outline: 2px solid rgb(28, 166, 131);
+}
+
+.search:focus {
+  transition: all 0.025s;
+}
